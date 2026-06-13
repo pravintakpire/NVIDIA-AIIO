@@ -3,7 +3,7 @@
 My complete handwritten notes for the NVIDIA-Certified Associate: 
 AI Infrastructure and Operations (NCA-AIIO) exam.
 
-📖 Full study breakdown: [Read the Medium article](your-medium-url)
+📖 Full study breakdown: [Read the Medium article](https://medium.com/@pravintakpire/how-i-cleared-the-nvidia-certified-associate-ai-infrastructure-and-operations-nca-aiio-exam-in-977e60bf4ecb)
 
 ## Topics Covered
 - GPU/CPU architecture
